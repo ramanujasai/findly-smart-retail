@@ -1,5 +1,7 @@
 # Findly - Smart Retail Product Discovery
 
+**Live demo:** [Open Findly](https://findly-smart-retail.streamlit.app)
+
 Findly is a small data-mining project built to make exploring a retail catalogue a little more useful. It brings product search, a simple store map, and basket management into one Streamlit web app.
 
 The data-mining part looks at products that appeared together in historical orders. These patterns can help identify items that shoppers may want to explore together. The project is a demonstration, so the suggestions are based on past associations rather than live customer activity or guaranteed future purchases.
