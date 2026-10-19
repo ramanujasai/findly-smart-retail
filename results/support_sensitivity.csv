@@ -1,0 +1,4 @@
+min_support,frequent_itemsets,association_rules,rules_with_lift_over_1,max_lift
+0.01,1976,1932,1932,80.22
+0.015,729,474,474,37.886
+0.02,381,162,162,18.552

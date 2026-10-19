@@ -1,0 +1,2 @@
+train_invoices,test_invoices,rules_learned,evaluated_invoices,k,precision_at_k,recall_at_k,hit_rate_at_k,mean_reciprocal_rank,popularity_baseline_precision,popularity_baseline_hit_rate,association_coverage,baseline_coverage
+16108,4028,2185,3648,5,0.12553619889696227,0.06249182899725454,0.2955043859649123,0.20525402046783658,0.026875601855904752,0.07346491228070176,0.8163377192982456,0.8163377192982456

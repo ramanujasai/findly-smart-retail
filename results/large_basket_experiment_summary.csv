@@ -1,0 +1,3 @@
+experiment,invoice_count,rule_count,rules_with_lift_over_1,maximum_lift
+all_invoices,20136,1932,1932,80.22
+at_most_50_products,18032,262,262,51.992
